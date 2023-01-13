@@ -13,16 +13,17 @@ Boilerplate de un proyecto en ASP.NET usando TailwindsCSS como Framework de CSS 
 
 ### Instalación:
 
-#### En una terminal de Powershell escribe:
-
+#### En una terminal de Powershell clona el repositorio:
 ```sh
 git clone https://github.com/angeldev96/aspdotnet_tailwindscss.git
 ```
 
+#### Ingresa al projecto:
 ```sh
 cd .\aspdotnet_tailwindscss\aspdotnet_tailwindscss\
 ```
 
+#### Instala las dependencias (TailwindCSS)
 ```sh
 npm i
 ```
