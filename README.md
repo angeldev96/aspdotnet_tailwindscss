@@ -30,7 +30,7 @@ npm i
 
 
 ### Compilación y ejecucion del proyecto:
-#### Para compilar y ejecutar el proyecto se recomienda utilizar el IDE Visual estudio, sin embargo aqui se muestran los pasos para compilar y ejecutar desde terminal con dotnet CLI:
+#### Para compilar y ejecutar el proyecto se recomienda utilizar el IDE Visual Studio, sin embargo aqui se muestran los pasos para compilar y ejecutar desde terminal con dotnet CLI:
 
 #### En la raiz del proyecto, ejectutamos desde la terminal:
 ```sh
