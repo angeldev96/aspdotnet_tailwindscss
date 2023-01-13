@@ -2,7 +2,16 @@
 
 Boilerplate de un proyecto en ASP.NET usando TailwindsCSS como Framework de CSS y alternativa a Bootstrap.
 
-Instalación (Powershell):
+
+
+Requisitos para la instalación:
+
+- NodeJS 16 o superior
+- .NET Framework 6 o superior
+- Git
+- PowerShell
+
+Instalación:
 
 En una terminal de Powershell escribe:
 
