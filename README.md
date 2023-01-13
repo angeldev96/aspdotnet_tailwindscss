@@ -37,6 +37,27 @@ npm i
 dotnet run .\Program.cs
 ```
 
+#### Se mostrara algo como:
+```sh
+Building...
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: https://localhost:7287
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5031
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\User\aspdotnet_tailwindscss\aspdotnet_tailwindscss\
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+```
+
+#### En este caso se muestran las URL's https://localhost:7287 y http://localhost:5031 para poder visualizar el proyecto, sin embargo podemos cambiar los puertos en el caso de que estos ya esten ocupados.
+
+
+
 
 
 
