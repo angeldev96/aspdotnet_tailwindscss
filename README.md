@@ -23,7 +23,7 @@ git clone https://github.com/angeldev96/aspdotnet_tailwindscss.git
 cd .\aspdotnet_tailwindscss\aspdotnet_tailwindscss\
 ```
 
-#### Instalación las dependencias (TailwindCSS)
+#### Instalación de las dependencias (TailwindCSS):
 ```sh
 npm i
 ```
